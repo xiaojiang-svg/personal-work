@@ -1,0 +1,9 @@
+<!--pages/home/home.wxml-->
+
+ <image src="/images/bgP.png" mode="widthFix"/>
+ <view class="box">
+    <button class="one" bindtap="changeLight" size="mini" type="primary">亮度调节</button>
+    <button class="two" bindtap="switch" size="mini" type="primary">开关</button>
+    <button class="three" bindtap="connectBT" size="mini" type="primary">蓝牙连接</button>
+    <button class="four" bindtap="temperature" size="mini" type="primary">室内温度</button>
+ </view>

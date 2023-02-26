@@ -1,0 +1,32 @@
+{
+    "pages": [
+        "pages/home/home",
+        "pages/setting/setting"
+    ],
+    "window": {
+        "backgroundTextStyle": "dark",
+        "navigationBarBackgroundColor": "#808080",
+        "navigationBarTitleText": "智享台灯",
+        "navigationBarTextStyle": "white",
+        "enablePullDownRefresh": true
+    },
+    "tabBar": {
+        "list": [{
+            "pagePath": "pages/home/home",
+            "text": "功能",
+            "iconPath": "images/functions.png",
+            "selectedIconPath": "images/functions-act.png"
+        },{
+            "pagePath": "pages/setting/setting",
+            "text": "设置",
+            "iconPath": "images/settings.png",
+            "selectedIconPath": "images/settings-act.png"
+        }],
+        "selectedColor":"#e4e6f1",
+        "backgroundColor": "#808080"
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json",
+    "lazyCodeLoading": "requiredComponents"
+      
+}

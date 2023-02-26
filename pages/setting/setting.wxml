@@ -1,0 +1,23 @@
+<view class="box">
+<button class="one" type="primary">
+    <image src="/images/clock.png" mode="widthFix"/>
+    <view class="box1">
+    <text>设置自动开关时间</text>
+    <text class="span">></text>
+    </view>
+</button>
+<button class="two" type="primary">
+<image src="/images/BlueTooth.png" mode="widthFix"/>
+    <view class="box1">
+        <text>蓝牙管理</text>
+    <text class="span">></text>
+    </view>
+</button>
+<button class="three" type="primary">
+<image src="/images/edition.png" mode="widthFix"/>
+    <view class="box1">
+        <text>检查版本更新</text>
+    <text class="span">></text>
+    </view>
+</button>
+</view>

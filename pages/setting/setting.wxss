@@ -1,0 +1,40 @@
+.box{
+    width: 100%;
+    height: 660px;
+}
+.box button{
+    display: flex;
+    position: relative;
+    margin:0;
+    padding: 0;
+    height: 7%;
+    width: 100%;
+    
+    border-radius: 0;
+    background-color: white;
+    color: black;
+}
+.box1{
+    height: 98%;
+    width: 89%;
+    position:relative;
+    left: 11%;
+    border-bottom: 1px solid gainsboro;
+}
+text{
+    height: 98%;
+    position: absolute;
+    left: 2%;
+    font-size: 15px;
+    font-weight: 350;
+    line-height: 46px;
+}
+.box1 .span{
+    right: -85%;
+}
+image{
+    position: absolute;
+    width: 7%;
+    left:2%;
+    top: 20%;
+}
