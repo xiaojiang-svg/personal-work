@@ -1,0 +1,2 @@
+<!--pages/work/work.wxml-->
+<switch wx:for="{{objectArray}}" wx:key="id" style="display: block;">{{item.unique}}</switch>
