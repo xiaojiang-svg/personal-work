@@ -8,7 +8,7 @@
             "list": [
                 {
                     "name": "",
-                    "pathName": "pages/setting/setting",
+                    "pathName": "pages/work/work",
                     "query": "",
                     "launchMode": "default",
                     "scene": null

@@ -1,6 +1,6 @@
 <!--pages/home/home.wxml-->
 
- <image src="/images/bgP.png" mode="widthFix"/>
+ <image src="/images/bgP.png" mode="scaleToFill"/>
  <view class="box">
     <button class="one" bindtap="changeLight" size="mini" type="primary">亮度调节</button>
     <button class="two" bindtap="switch" size="mini" type="primary">开关</button>

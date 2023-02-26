@@ -1,7 +1,8 @@
 {
     "pages": [
         "pages/home/home",
-        "pages/setting/setting"
+        "pages/setting/setting",
+        "pages/work/work"
     ],
     "window": {
         "backgroundTextStyle": "dark",
@@ -21,7 +22,12 @@
             "text": "设置",
             "iconPath": "images/settings.png",
             "selectedIconPath": "images/settings-act.png"
-        }],
+        },{
+            "pagePath": "pages/work/work",
+            "text":"work"
+        }
+
+    ],
         "selectedColor":"#e4e6f1",
         "backgroundColor": "#808080"
     },
